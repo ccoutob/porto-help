@@ -2,6 +2,12 @@
 🆘<br>Porto Help
 </h1>
 
+<div align="center">
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/ccoutob/FiapChallengeJava/blob/main/LICENSE)
+ 
+</div>
+
 > Repositório dedicado ao projeto Porto Help (Java) - desenvolvido para atender as demandas do Challenge com a Porto Seguro pelo primeiro ano em ADS na FIAP!
 
 <h2>📝Desafio</h2>
