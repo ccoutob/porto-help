@@ -60,7 +60,7 @@
 | PUT    | /api/carga/&lt;id&gt;        | Atualizar uma carga  |
 | DELETE | /api/carga/&lt;id&gt;        | Deletar uma carga    |
 
-###❗️Dados adicionais para a funcionalidade do projeto
+### ❗️Dados adicionais para a funcionalidade do projeto
 ● O Porto Help foi feito com o servidor tomcat na versão 10.1
 <br>
 ● Os dados devem ser passados ao POSTMAN para realizar a requisição na Web e Banco de dados
