@@ -35,7 +35,7 @@
 
 <h2 name="endpoints">🌐 Endpoints</h2>
 
-### ❗ PS: Lembre sempre do /api antes de cada endpoint
+### ❗ PS: Lembre sempre do /Sprint4 antes de cada endpoint
 
 ### 🚛 Veículo
 
